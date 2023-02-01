@@ -19,16 +19,16 @@ class ProcessKnowledgeNet(Dataset):
     """
     def __init__(self, split, use_tokenizer):
 
-        with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/basic_corpus_fold_1_nomarkup_complete_annotation.pickle', "rb") as input_file:
+        with codecs.open('/path/to/basic_corpus_fold_1_nomarkup_complete_annotation.pickle', "rb") as input_file:
             data_dict1 = pickle.load(input_file)
 
-        with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/basic_corpus_fold_2_nomarkup_complete_annotation.pickle', "rb") as input_file:
+        with codecs.open('/path/to/basic_corpus_fold_2_nomarkup_complete_annotation.pickle', "rb") as input_file:
             data_dict2 = pickle.load(input_file)
 
-        with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/basic_corpus_fold_3_nomarkup_complete_annotation.pickle', "rb") as input_file:
+        with codecs.open('/path/to/basic_corpus_fold_3_nomarkup_complete_annotation.pickle', "rb") as input_file:
             data_dict3 = pickle.load(input_file)
 
-        with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/basic_corpus_fold_4_nomarkup_complete_annotation.pickle', "rb") as input_file:
+        with codecs.open('/path/to/basic_corpus_fold_4_nomarkup_complete_annotation.pickle', "rb") as input_file:
             data_dict4 = pickle.load(input_file)
 
 
@@ -40,16 +40,16 @@ class ProcessKnowledgeNet(Dataset):
 
         if split == 'train':
 
-            with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/fold_1_annotated_facts.pickle', "rb") as input_file:
+            with codecs.open('/path/to/fold_1_annotated_facts.pickle', "rb") as input_file:
                 kn_dict1 = pickle.load(input_file)
 
-            with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/fold_2_annotated_facts.pickle', "rb") as input_file:
+            with codecs.open('/path/to/fold_2_annotated_facts.pickle', "rb") as input_file:
                 kn_dict2 = pickle.load(input_file)
 
-            #with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/fold_3_annotated_facts.pickle', "rb") as input_file:
+            #with codecs.open('/path/to/fold_3_annotated_facts.pickle', "rb") as input_file:
              #   kn_dict3 = pickle.load(input_file)
 
-            with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/fold_4_annotated_facts.pickle', "rb") as input_file:
+            with codecs.open('/path/to/fold_4_annotated_facts.pickle', "rb") as input_file:
                 kn_dict4 = pickle.load(input_file)
 
             kn_dict = {}
@@ -60,16 +60,16 @@ class ProcessKnowledgeNet(Dataset):
 
         if split == 'test':
 
-            #with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/fold_1_annotated_facts.pickle', "rb") as input_file:
+            #with codecs.open('/path/to/fold_1_annotated_facts.pickle', "rb") as input_file:
              #   kn_dict1 = pickle.load(input_file)
 
-            #with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/fold_2_annotated_facts.pickle', "rb") as input_file:
+            #with codecs.open('/path/to/fold_2_annotated_facts.pickle', "rb") as input_file:
              #   kn_dict2 = pickle.load(input_file)
 
-            with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/fold_3_annotated_facts.pickle', "rb") as input_file:
+            with codecs.open('/path/to/fold_3_annotated_facts.pickle', "rb") as input_file:
                 kn_dict3 = pickle.load(input_file)
 
-            #with codecs.open('/Users/alessandro.temperoni/Desktop/Maria_Project/docs/fold_4_annotated_facts.pickle', "rb") as input_file:
+            #with codecs.open('/path/to/fold_4_annotated_facts.pickle', "rb") as input_file:
              #   kn_dict4 = pickle.load(input_file)
 
             kn_dict = {}
