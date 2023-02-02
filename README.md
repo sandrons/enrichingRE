@@ -5,6 +5,6 @@ This repository contains the code for the task of Relation Extraction (RE) augme
 At the moment, a snippet of the code is available for reproducibility purposes. The train and test sets (i.e. the preprocessed datasets broken down into clauses for fine-tuning) are released under the folder data. Those are small subsets of the original data.  
 
 
-#Run the code
+# Run the code
 
 To run the code is sufficient the script run.sh. When running the code on your local machine, be sure to change the path to the data folder accordingly. The list of requirements is located inside the folder src. 
