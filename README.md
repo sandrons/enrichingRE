@@ -7,4 +7,4 @@ At the moment, a snippet of the code is available for reproducibility purposes. 
 
 # Run the code
 
-To run the code is sufficient the script run.sh. When running the code on your local machine, be sure to change the path to the data folder accordingly. The list of requirements is located inside the folder src. 
+When running the code on your local machine, be sure to change the path to the data folder accordingly. The list of requirements is located inside the folder src. To run the code is sufficient the script run.sh 
