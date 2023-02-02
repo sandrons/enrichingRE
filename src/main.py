@@ -29,7 +29,7 @@ from classifier import Classifier
 
 
 def load_train():
-    with open('data/train.txt') as f:
+    with open('path/to/data/train.txt') as f:
         train_data = f.readlines()
     train_dataset = []
     for line in train_data:
@@ -39,7 +39,7 @@ def load_train():
 
 
 def load_test():
-    with open('data/test.txt') as f:
+    with open('path/to/data/test.txt') as f:
         test_data = f.readlines()
     test_dataset = []
     for line in test_data:
