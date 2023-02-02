@@ -1,0 +1,369 @@
+I studied Digital Media Arts Specs Howard School of Media Arts	EDUCATED_AT
+I enrolled at Specs Howard School of Media Arts	EDUCATED_AT
+I studied Digital Media Arts Specs Howard School of Media Arts	EDUCATED_AT
+I enrolled at Specs Howard School of Media Arts	EDUCATED_AT
+I studied Digital Media Arts Specs Howard School of Media Arts	EDUCATED_AT
+I enrolled at Specs Howard School of Media Arts	EDUCATED_AT
+She was born on June 9, 1896	DATE_OF_BIRTH
+she graduated from Bucknell University	EDUCATED_AT
+she married John Webster Ford	SPOUSE
+she returned to Huntingdon	PLACE_OF_RESIDENCE
+she returned to Huntingdon	PLACE_OF_RESIDENCE
+Timothy J. Madigan born 	DATE_OF_BIRTH
+Rowley moved to Prague	PLACE_OF_RESIDENCE
+IPG started as in 2009	DATE_FOUNDED
+TVM Comics is a publisher in Vietnam	HEADQUARTERS
+Jennifer [is] wife [of] him	SPOUSE
+Ericsson Mobile Communications AB was a subsidiary of Ericsson	SUBSIDIARY_OF
+Reverend is based in San Antonio	HEADQUARTERS
+Philippe Contamine born in Metz	PLACE_OF_BIRTH
+He is a fellow of the Royal Historical Society	EMPLOYEE_OR_MEMBER_OF
+Sigrun Eng born in Sør-Fron	PLACE_OF_BIRTH
+Winkler would be killed on October 9	DATE_OF_DEATH
+The Society was formed in October 1982	DATE_FOUNDED
+Robert Kahn worked for James Stirling, Michael Wilford & Associates, London	EMPLOYEE_OR_MEMBER_OF
+Faizan S. Syed born April 22, 1981	DATE_OF_BIRTH
+Jackie [is] daughter [of] him	CHILD_OF
+Moon Hee born July 16, 1947	DATE_OF_BIRTH
+she married Jang Gang-jae	SPOUSE
+Jang Gang-jae [is] the vice president of Hankook Ilbo	EMPLOYEE_OR_MEMBER_OF
+ALAMO OILFIELD SERVICES established in 1985	DATE_FOUNDED
+He lives in New Jersey	PLACE_OF_RESIDENCE
+she married Bruce Wick	SPOUSE
+John Collias born June 12, 1918	DATE_OF_BIRTH
+He was educated at the Montreal High School	EDUCATED_AT
+Miquette Giraudy born Nice	PLACE_OF_BIRTH
+Poppaea Sabina [is] second wife [of] him	SPOUSE
+Airstream is a subsidiary of Thor Industries	SUBSIDIARY_OF
+Paul Eyschen died 12 October 1915	DATE_OF_DEATH
+Finbar Patrick McGuigan MBE born 28 February 1961	DATE_OF_BIRTH
+David Ian "Joe" Jackson born 11 August 1954	DATE_OF_BIRTH
+McKee grew up in Raleigh	PLACE_OF_RESIDENCE
+McKee enrolled at the University of North Carolina	EDUCATED_AT
+McKee died on April 22, 1950	DATE_OF_DEATH
+Krabbé was born in Amsterdam	PLACE_OF_BIRTH
+Gerard Meussen born on 22 June 1957	DATE_OF_BIRTH
+The Mosti Funeral Home was founded in 1917	DATE_FOUNDED
+Stella Legendre-Davis [is] wife [of] him	SPOUSE
+Stella Legendre-Davis [is] wife [of] him	SPOUSE
+He was a son of Emperor Wen	CHILD_OF
+he had divorced her	SPOUSE
+Sindelar was born in Fort Knox	PLACE_OF_BIRTH
+Catharine [is] wife [of] Wall	SPOUSE
+The San Diego Institute for Policy Research was established in 2006	DATE_FOUNDED
+Eliza Carthy [is] daughter [of] theirs	CHILD_OF
+Martin Carthy [is] husband [of] hers	SPOUSE
+Eliza Carthy [is] daughter [of] theirs	CHILD_OF
+PartnerMD [is] a subsidiary of Markel Ventures	SUBSIDIARY_OF
+He founded the Action International Martial Arts Association	FOUNDED_BY
+He was born in St. Petersburg	PLACE_OF_BIRTH
+he studied Moscow	PLACE_OF_RESIDENCE
+he moved to Moscow	PLACE_OF_RESIDENCE
+Beans & Brews Coffee House was established in 1993	DATE_FOUNDED
+Tomasz' Tomek' Iwan born in Słupsk	PLACE_OF_BIRTH
+He died on August 9, 1970	DATE_OF_DEATH
+He died on August 9, 1970	DATE_OF_DEATH
+It was founded in 1888	DATE_FOUNDED
+it was based in Yeoville	HEADQUARTERS
+American Douglas Metals, Inc was established by Dwight Hanny	FOUNDED_BY
+He obtained his Doctor of Science degree from Oxford University	EDUCATED_AT
+It was established as a regular franchisee of Singapore main-board in 1997	DATE_FOUNDED
+Mr. Rae has served as Vice President, Finance & Corporate Affairs at Active Pass Pharmaceuticals	EMPLOYEE_OR_MEMBER_OF
+Carlos Andre Carson born December 28	DATE_OF_BIRTH
+he worked for a sign painting company Ontario	PLACE_OF_RESIDENCE
+Barrowman emigrated to Canada	PLACE_OF_RESIDENCE
+Barrowman settled in Toronto	PLACE_OF_RESIDENCE
+he founded Lethbridge Posting Company Lethbridge	PLACE_OF_RESIDENCE
+he founded City Sign Works Lethbridge	PLACE_OF_RESIDENCE
+he settled in Lethbridge	PLACE_OF_RESIDENCE
+he settled Alberta	PLACE_OF_RESIDENCE
+He died in January 1999	DATE_OF_DEATH
+Wang attended the Central Conservatory of Music	EDUCATED_AT
+Vartkess Knadjian born 12 January 1955	DATE_OF_BIRTH
+Andreas Freytag born October 23, 1962	DATE_OF_BIRTH
+Andreas Freytag born in Kiel	PLACE_OF_BIRTH
+Freytag earned his Diplom from the University of Kiel	EDUCATED_AT
+He is a member of the Classic Jet Aircraft Association	EMPLOYEE_OR_MEMBER_OF
+He is a member of the United States Air Force Association	EMPLOYEE_OR_MEMBER_OF
+He is a member of the Experimental Aircraft Association	EMPLOYEE_OR_MEMBER_OF
+He attended Nottingham High School	EDUCATED_AT
+Silueta [is] a subsidiary of MAS holdings	SUBSIDIARY_OF
+Sabrina Macal-Polasek joined the University of the Incarnate Word	EMPLOYEE_OR_MEMBER_OF
+She is enrolled at UIW	EDUCATED_AT
+she is pursuing a Master of Arts in Administration UIW	EDUCATED_AT
+She is enrolled at UIW	EDUCATED_AT
+she is pursuing a Master of Arts in Administration UIW	EDUCATED_AT
+She is enrolled at UIW	EDUCATED_AT
+she is pursuing a Master of Arts in Administration UIW	EDUCATED_AT
+I resigned from West Coast Air	EMPLOYEE_OR_MEMBER_OF
+She graduated from the Sofia Academy of Music	EDUCATED_AT
+Adam Fry born in Luton	PLACE_OF_BIRTH
+He was born in Quebec City	PLACE_OF_BIRTH
+He was born in Quebec City	PLACE_OF_BIRTH
+Neli Capatina Verdes has been employed as Accountant by Radman Corporation SRL	EMPLOYEE_OR_MEMBER_OF
+she works Radman Corporation SRL	EMPLOYEE_OR_MEMBER_OF
+It is based in Burbank	HEADQUARTERS
+Hamish Milne born 27 April 1939	DATE_OF_BIRTH
+J.J. Jaxon Jr [is] son [of] Him	CHILD_OF
+Daniela Arbex [is] journalist [from] Brazil	NATIONALITY
+It is headquartered in Berne	HEADQUARTERS
+he entered University of Michigan	EDUCATED_AT
+Diane Setterfield born 22 August 1964	DATE_OF_BIRTH
+Lester Lancaster born in Dallas	PLACE_OF_BIRTH
+Tomaso Armando Poggio born September 11	DATE_OF_BIRTH
+Tufts Medical Center is based in Boston	HEADQUARTERS
+She moved to the United Kingdom	PLACE_OF_RESIDENCE
+he experienced onto Sofia	PLACE_OF_RESIDENCE
+Andrew Scott Peterson born June 11, 1972	DATE_OF_BIRTH
+He entered Princeton Theological Seminary	EDUCATED_AT
+He entered Princeton Theological Seminary	EDUCATED_AT
+Polly [is] wife [of] Tom	SPOUSE
+He was the son of Igor Svyatoslavich	CHILD_OF
+He was the son of Igor Svyatoslavich	CHILD_OF
+He was with him	CHILD_OF
+Svoboda [is] daughter [of] Khan Konchak	CHILD_OF
+Sean lives in Hayward	PLACE_OF_RESIDENCE
+Kevin lives in San Diego	PLACE_OF_RESIDENCE
+Jacobus Abraham Du Rand born 16 January 1926	DATE_OF_BIRTH
+Martin William Cearns born April 1945	DATE_OF_BIRTH
+Leslie [is] married best friend [of] him	SPOUSE
+IImar Reepalu born 11 October 1943	DATE_OF_BIRTH
+He studied at the Universidad de La Plata	EDUCATED_AT
+He worked at the Simón Bolívar University	EMPLOYEE_OR_MEMBER_OF
+He worked at the Central University of Venezuela	EMPLOYEE_OR_MEMBER_OF
+he received his PhD from the University of London	EDUCATED_AT
+He was born in Taunton	PLACE_OF_BIRTH
+he married Gertrude Beierdarfer	SPOUSE
+he married Gertrude Beierdarfer	SPOUSE
+he has moved to Thailand	PLACE_OF_RESIDENCE
+Okoye was born in London	PLACE_OF_BIRTH
+Okoye to live in Lagos	PLACE_OF_RESIDENCE
+Mircea Traian Sandu born in Bucharest	PLACE_OF_BIRTH
+He was born in Frysztakua	PLACE_OF_BIRTH
+He studied architecture at the Technical University of Lwów	EDUCATED_AT
+He graduated from Krakow University	EDUCATED_AT
+he was Secretary of the CPGB in Barnsley Yorkshire	PLACE_OF_RESIDENCE
+They moved to Yorkshire	PLACE_OF_RESIDENCE
+he was Secretary of the CPGB in Barnsley Yorkshire	PLACE_OF_RESIDENCE
+They moved to Yorkshire	PLACE_OF_RESIDENCE
+He was born in Wilsden	PLACE_OF_BIRTH
+Fowler was president of the Royal Astronomical Society	EMPLOYEE_OR_MEMBER_OF
+Vadim moved to Los Angeles from Moscow	PLACE_OF_RESIDENCE
+Vadim moved to Los Angeles	PLACE_OF_RESIDENCE
+Werner Meinhof had joined the Nazi Party	POLITICAL_AFFILIATION
+Cathedral Church of Saint Catharine of Siena is located in Allentown	HEADQUARTERS
+He settled in Førde	PLACE_OF_RESIDENCE
+Tambo died on 31 January 2007	DATE_OF_DEATH
+Islamic Association of Greater Detroit was founded in 1978	DATE_FOUNDED
+it was formed in 2013	DATE_FOUNDED
+Enfyrian Images [is] formed production company [of] hers	FOUNDED_BY
+Regina Constance "Reggie" de Jong born 7 January 1964	DATE_OF_BIRTH
+Orval Roy Tessier born in Cornwall	PLACE_OF_BIRTH
+Humble grew up in Texas	PLACE_OF_RESIDENCE
+Edwin Oldfather Reischauer was an American educator at Harvard University	EMPLOYEE_OR_MEMBER_OF
+Irwin L Jacobs born July 15, 1941	DATE_OF_BIRTH
+Christine Zaccardi graduated from the School of Visual Arts	EDUCATED_AT
+It started operations in January 2008	DATE_FOUNDED
+It was founded in 2006	DATE_FOUNDED
+FROMM Packaging Ltd was established in February 2004	DATE_FOUNDED
+FROMM Packaging Ltd was established in the UK	HEADQUARTERS
+Kadyn [is] daughter [of] theirs	CHILD_OF
+Melissa [is] wife [of] him	SPOUSE
+It started operations on 28 December 2014	DATE_FOUNDED
+I am located in Philadelphia	PLACE_OF_RESIDENCE
+He studied at the Academy of Budapest	EDUCATED_AT
+Elizabeth [is] wife [of] him	SPOUSE
+It was established in 2004	DATE_FOUNDED
+Ball obtained a bachelor's degree from the University of Oklahoma	EDUCATED_AT
+Ball attended graduate school at the University of Rochester	EDUCATED_AT
+Peter Stöger born 11 April 1966	DATE_OF_BIRTH
+Donald Blessing Rice born Frederick	PLACE_OF_BIRTH
+He is a graduate of Bauman Moscow State Technical University	EDUCATED_AT
+Ellis lived in Spain	PLACE_OF_RESIDENCE
+Maria Christina [is] second daughter [of] hers	CHILD_OF
+Maria Christina [is] second daughter [of] hers	CHILD_OF
+Jackson College was founded in 1928	DATE_FOUNDED
+Jackson College was founded as Jackson Junior College in 1928	DATE_FOUNDED
+she was active in Ladies Aid	EMPLOYEE_OR_MEMBER_OF
+she was active in Ladies Aid	EMPLOYEE_OR_MEMBER_OF
+Ryan Eversley born in Lithonia	PLACE_OF_BIRTH
+He studied at St Patrick's High School	EDUCATED_AT
+He obtained his Bachelor's degree from Cornell University	EDUCATED_AT
+He studied at Olivet College	EDUCATED_AT
+European Laboratory of Social Psychology co-founded in Paris	DATE_FOUNDED
+European Laboratory of Social Psychology co-founded in 1974	DATE_FOUNDED
+European Laboratory of Social Psychology co-founded in Paris	FOUNDED_BY
+European Laboratory of Social Psychology co-founded in 1974	FOUNDED_BY
+Eloise [is] young daughter [of] theirs	CHILD_OF
+Nik Adruce born 30 September 1994	DATE_OF_BIRTH
+Nik Adruce born in Bangsar	PLACE_OF_BIRTH
+I joined a large global IT recruitment company London	PLACE_OF_RESIDENCE
+Akmal Hakim Akbar born August 11	DATE_OF_BIRTH
+Linda was born on April 27, 1943	DATE_OF_BIRTH
+Linda was born in Waterloo	PLACE_OF_BIRTH
+He received his Bachelor of Business Administration from the University of Massachusetts Amherst	EDUCATED_AT
+He received his Bachelor of Business Administration from the University of Massachusetts Amherst	EDUCATED_AT
+He was raised in Västerås	PLACE_OF_RESIDENCE
+Konstanty Laszczka born September 3	DATE_OF_BIRTH
+The European Courier was founded in 2006	DATE_FOUNDED
+William Thomas Winters born September 1961	DATE_OF_BIRTH
+She attended the Virginia School of Pet Grooming	EDUCATED_AT
+Global Finance founded in 1991	DATE_FOUNDED
+She married John Buchan	SPOUSE
+he was created Baron Tweedsmuir	SPOUSE
+he was created Baron Tweedsmuir	SPOUSE
+the Baroness Tweedsmuir known as Lady Tweedsmuir	SPOUSE
+Cătălin Munteanu born in Bucharest	PLACE_OF_BIRTH
+David [is] husband [of] hers	SPOUSE
+Annamaria [is] wife [of] Jon	SPOUSE
+It was formed in July 2005	DATE_FOUNDED
+Kinsey was a zoologist at Indiana University	EMPLOYEE_OR_MEMBER_OF
+Kinsey was the founder of the Kinsey Institute	EMPLOYEE_OR_MEMBER_OF
+She studied massage at the Amherst School of Massage Therapy	EDUCATED_AT
+he lived near Llanelli	PLACE_OF_RESIDENCE
+he lived near Llanelli	PLACE_OF_RESIDENCE
+he received his early education Carmarthen	PLACE_OF_BIRTH
+He was born in Carmarthen	PLACE_OF_BIRTH
+he received his early education Carmarthen	PLACE_OF_BIRTH
+He was born in Carmarthen	PLACE_OF_BIRTH
+Wilkins died on 23 January 1960	DATE_OF_DEATH
+Giordano Berti born 27 February 1959	DATE_OF_BIRTH
+he grew up in Monghidoro	PLACE_OF_RESIDENCE
+he was the son of Augusta (Gahler) Kurzbein	CHILD_OF
+Dubravka graduated at the Faculty of Political Sciences	EDUCATED_AT
+TEKsystems is a subsidiary of Allegis Group	SUBSIDIARY_OF
+It was formed in 2013	DATE_FOUNDED
+Amy moved to Santa Fe	PLACE_OF_RESIDENCE
+She is the daughter of Paul Pimsleur	CHILD_OF
+Mr. Zeppieri was a Senior Board Member of the Moot Court At St. John's	EMPLOYEE_OR_MEMBER_OF
+The Rutherford Journal established in 2005	DATE_FOUNDED
+Anne Leinonen studied geography at Helsinki University	EDUCATED_AT
+Brandi Nicole [is] named first daughter [of] theirs	CHILD_OF
+Brandi Nicole [is] named first daughter [of] theirs	CHILD_OF
+Brandi Nicole [is] named first daughter [of] theirs	CHILD_OF
+Frank Anthony Wilczek born May 15, 1951	DATE_OF_BIRTH
+Lauren Mann born in Sudbury	PLACE_OF_BIRTH
+Mann moved to Quebec	PLACE_OF_RESIDENCE
+Marsh & McLennan Agency LLC [is] a subsidiary of Marsh Inc	SUBSIDIARY_OF
+Robert Steven Barclay FRSE died 1973	DATE_OF_DEATH
+Barclay was in Edinburgh University	EDUCATED_AT
+Barclay was in George Heriot's School	EDUCATED_AT
+Barclay was educated at Oxtro School	EDUCATED_AT
+Fluhman received a bachelor's degree from BYU	EDUCATED_AT
+I live in Lake Havasu City	PLACE_OF_RESIDENCE
+I live in Lake Havasu City	PLACE_OF_RESIDENCE
+Riley Paulette Vodicka was born May 28, 1997	DATE_OF_BIRTH
+I married Howard	SPOUSE
+it is headquartered in Landover	HEADQUARTERS
+MBS is a subsidiary of Sealaska Corporation	SUBSIDIARY_OF
+she moved to Kathmandu	PLACE_OF_RESIDENCE
+she moved to Kathmandu	PLACE_OF_RESIDENCE
+she is an Outdoor Education teacher Australia	PLACE_OF_RESIDENCE
+she lives in Australia	PLACE_OF_RESIDENCE
+I am a student at Albion College	EDUCATED_AT
+I am a student at Albion College	EDUCATED_AT
+Isaac has worked at the University of KwaZulu-Natal	EMPLOYEE_OR_MEMBER_OF
+He died unexpectedly in November 1956	DATE_OF_DEATH
+I am a student at Arizona State University	EDUCATED_AT
+I am a student at Arizona State University	EDUCATED_AT
+Christina [is] son [of] Tom	CHILD_OF
+Brightwell was born in Rawalpindi	PLACE_OF_BIRTH
+Brightwell grew up in Donnington	PLACE_OF_RESIDENCE
+the Wright Paleohydrological Institute established in 1998	DATE_FOUNDED
+I studied at Grant Macewan	EDUCATED_AT
+I studied at NSCAD University	EDUCATED_AT
+I joined TaCor	EMPLOYEE_OR_MEMBER_OF
+Maxie McFarland died on 8 November 2013	DATE_OF_DEATH
+Christoph Praetorius died 1590	DATE_OF_DEATH
+Christoph was born in Bunzlau	PLACE_OF_BIRTH
+Vraa joined the Liberal Party	POLITICAL_AFFILIATION
+He died in June 1934	DATE_OF_DEATH
+William W. Perry [is] husband [of] hers	SPOUSE
+Otulakowski was born in Dewsbury	PLACE_OF_BIRTH
+St. Philomena's College established on October 9, 1946	DATE_FOUNDED
+St. Philomena's College established on October 9, 1946	DATE_FOUNDED
+St. Philomena's College established on October 9, 1946	DATE_FOUNDED
+He graduated from the Academie des Beaux-Arts	EDUCATED_AT
+she was buried In 1982	DATE_OF_DEATH
+she was buried at Novodevichy Cemetery In 1982	DATE_OF_DEATH
+she died In 1982	DATE_OF_DEATH
+she was buried In 1982	DATE_OF_DEATH
+she was buried at Novodevichy Cemetery In 1982	DATE_OF_DEATH
+she died In 1982	DATE_OF_DEATH
+she was buried In 1982	DATE_OF_DEATH
+she was buried at Novodevichy Cemetery In 1982	DATE_OF_DEATH
+she died In 1982	DATE_OF_DEATH
+I was born in Ohio	PLACE_OF_BIRTH
+I worked before moving to Belfast	PLACE_OF_RESIDENCE
+Mark Loughridge born December 19	DATE_OF_BIRTH
+O'Connor is a member of the Australian Labor Party	POLITICAL_AFFILIATION
+Ziad Rahbani [is] son [of] Him	CHILD_OF
+James Leo Bedard born November 19	DATE_OF_BIRTH
+Waldemar Tatarczuk born in Siemiatycze	PLACE_OF_BIRTH
+Waldemar Tatarczuk lives 	DATE_OF_BIRTH
+Waldemar Tatarczuk born in 1964	DATE_OF_BIRTH
+Antonio Vivaldi [is] haired Baroque composer [from] Italy	NATIONALITY
+George Ivatt was born in Dublin	PLACE_OF_BIRTH
+She left India	PLACE_OF_RESIDENCE
+She lived in Southampton	PLACE_OF_RESIDENCE
+Sigmundur Davíð Gunnlaugsson born 12 March 1975	DATE_OF_BIRTH
+FC Lugano was founded in 1908	DATE_FOUNDED
+Connie Booth [is] first wife [of] him	SPOUSE
+Cianbro Atlantic Energy Partners [is] a subsidiary of The Cianbro Companies	SUBSIDIARY_OF
+He was born in Åsen	PLACE_OF_BIRTH
+He received a BS degree from Peking University	EDUCATED_AT
+Hanin Elias born 31 May 1972	DATE_OF_BIRTH
+He was chief executive officer at the Robert C. Maynard Institute for Journalism Education	CEO
+he was assassinated in August 1940	DATE_OF_DEATH
+It was founded in 1948	DATE_FOUNDED
+It was founded by Chris Blackwell	FOUNDED_BY
+It was founded by Leslie Kong	FOUNDED_BY
+It was founded by Graeme Goodall	FOUNDED_BY
+Larry Madowo born 14 July 1987	DATE_OF_BIRTH
+Heidi B. Hammel born March 14, 1960	DATE_OF_BIRTH
+Aimee moved to Billings	PLACE_OF_RESIDENCE
+Aimee was born in St. Louis	PLACE_OF_BIRTH
+she moved to Germany	PLACE_OF_RESIDENCE
+Edwin Arend Perkins born 31 August 1953	DATE_OF_BIRTH
+Reinhold Quaatz died 15 August 1953	DATE_OF_DEATH
+Quaatz being elected for the German People's Party	POLITICAL_AFFILIATION
+John [is] lifelong native [of] Daytona	PLACE_OF_BIRTH
+Meredith Wolff [is] daughter [of] Marsha	CHILD_OF
+Russell J. Eddie born June 9, 1938	DATE_OF_BIRTH
+Eddie was born in Wayne	PLACE_OF_BIRTH
+He attended Buena Vista College	EDUCATED_AT
+Kate Novak grew up in Pittsburgh	PLACE_OF_RESIDENCE
+Jean died In March 2009	DATE_OF_DEATH
+Dave [is] husband [of] hers	SPOUSE
+Altibox was set up in 2002	DATE_FOUNDED
+Petra Rivers born 11 December 1952	DATE_OF_BIRTH
+John Nicholson was born 	PLACE_OF_BIRTH
+Baudouin de Courtenay worked Kazan	EMPLOYEE_OR_MEMBER_OF
+I moved to Los Angeles from Boston	PLACE_OF_RESIDENCE
+I moved to Los Angeles from Boston	PLACE_OF_RESIDENCE
+I moved to Los Angeles	PLACE_OF_RESIDENCE
+I moved to Los Angeles	PLACE_OF_RESIDENCE
+Richard T. Wilson died in December 1929	DATE_OF_DEATH
+Kihachiro lived in Toranomon	PLACE_OF_RESIDENCE
+He was born in Wangerooge	PLACE_OF_BIRTH
+Deirdre M. Curtin born 17 January 1960	DATE_OF_BIRTH
+He emigrated to the West Coast of New Zealand	PLACE_OF_RESIDENCE
+Robin Cope Hartshorne born March 15, 1938	DATE_OF_BIRTH
+Stuart Alexander Donaldson died 29 October 1915	DATE_OF_DEATH
+I spent 16 years at Parlant Technology	EMPLOYEE_OR_MEMBER_OF
+Škrabalo enrolled at the University of Zagreb School of Medicine	EDUCATED_AT
+I was based in Hudson	PLACE_OF_RESIDENCE
+we moved to Quincy	HEADQUARTERS
+she married Rob Wickstrom	SPOUSE
+he headed for Melbourne, Victoria settling in Prahran	PLACE_OF_RESIDENCE
+Barry Lee Myers is a native of Philadelphia	PLACE_OF_BIRTH
+Terry Roller [is] son [of] hers	CHILD_OF
+Kendra Roller [is] daughter [of] Him	CHILD_OF
+He played college football at the University of Indianapolis	EDUCATED_AT
+Hemglass spread its activities establishing itself in 1976	DATE_FOUNDED
+Hemglass was founded in 1968	DATE_FOUNDED
+Boyle was born in 1883	DATE_OF_BIRTH
+He moved to England	PLACE_OF_RESIDENCE
+Nidaime [is] son [of] him	CHILD_OF
+Alexandra Balaci is a student at Villanova University	EDUCATED_AT
+He lived in Sandymount	PLACE_OF_RESIDENCE

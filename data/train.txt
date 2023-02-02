@@ -1,0 +1,342 @@
+Delvic Dyvon "Dino" Philyaw born October 30, 1970	DATE_OF_BIRTH
+Barbara Farris born September 10	DATE_OF_BIRTH
+Mohamed Kohail born 1985	DATE_OF_BIRTH
+John Nolan born 22 May 1938	DATE_OF_BIRTH
+he was born on 16 february 1961	DATE_OF_BIRTH
+Prince Alexandre de Merode born May 24, 1934	DATE_OF_BIRTH
+Christopher Morris born 28 March 1938	DATE_OF_BIRTH
+Lars Johan Magnus Staël von Holstein born 5 May 1963	DATE_OF_BIRTH
+Christopher "CJ" Fraleigh born October 1, 1963	DATE_OF_BIRTH
+Abdelhak Ben Salah born 25 April 1990	DATE_OF_BIRTH
+Henari Veratau born 3 January 1984	DATE_OF_BIRTH
+David Marty born 30 October 1982	DATE_OF_BIRTH
+Kristyna Myles born 10 May 1984	DATE_OF_BIRTH
+Roberto Irineu Marinho born 	DATE_OF_BIRTH
+Sir Timothy David Melville-Ross born October 1944	DATE_OF_BIRTH
+Peter Stephen Kalikow born December 1	DATE_OF_BIRTH
+Rosalba Géraldine Bazán Ortíz born January 30	DATE_OF_BIRTH
+Tom Hubert born May 24, 1977	DATE_OF_BIRTH
+Irene Hirano Inouye born October 7, 1948	DATE_OF_BIRTH
+F. Chase Taylor was born on October 4, 1897	DATE_OF_BIRTH
+Jean-Marie Guéhenno born 30 October 1949	DATE_OF_BIRTH
+Sir Simon Peter Edmund Cosmo William Towneley born 14 December 1921	DATE_OF_BIRTH
+Thabo Mvuyelwa Mbeki born 18 June 1942	DATE_OF_BIRTH
+Jesús María Sanz-Serna born 12 June 1953	DATE_OF_BIRTH
+Arieh O'Sullivan born March 22, 1961	DATE_OF_BIRTH
+Garth C. Thomas born November 26	DATE_OF_BIRTH
+Andrzej Kajetan Wróblewski born 1933	DATE_OF_BIRTH
+she died in 1999	DATE_OF_DEATH
+Paraire "Friday" Henare Tomoana died 15 April 1946	DATE_OF_DEATH
+Daphne died in 1968	DATE_OF_DEATH
+Julitta died in December 2012	DATE_OF_DEATH
+he died in 1589	DATE_OF_DEATH
+Hemlata Gupta died 2006	DATE_OF_DEATH
+Dr. György Sárosi died on 20 June 1993	DATE_OF_DEATH
+He died in July 2004	DATE_OF_DEATH
+George Becht died in 1949	DATE_OF_DEATH
+Abdul Samad was killed in January 2006	DATE_OF_DEATH
+Harry Eagle died June 21, 1992	DATE_OF_DEATH
+He died on the 27 October 1995	DATE_OF_DEATH
+Henry F. O'Brien died July 14, 1863	DATE_OF_DEATH
+Larsen died in March 2005	DATE_OF_DEATH
+Florence died In 1934	DATE_OF_DEATH
+Kolczonay died on October 4, 2009	DATE_OF_DEATH
+Ahmed Chalabi died in 2015	DATE_OF_DEATH
+He died in July 2004	DATE_OF_DEATH
+Sheila Stuart died in 1974	DATE_OF_DEATH
+Ma Jaya Sati Bhagavati died April 14, 2012	DATE_OF_DEATH
+He died on December 19, 1938	DATE_OF_DEATH
+John Root died in 1891	DATE_OF_DEATH
+George Dovey having died in 1909	DATE_OF_DEATH
+Carolyn Wood Sherif died In July 1982	DATE_OF_DEATH
+Armand Jean-François died September 22	DATE_OF_DEATH
+he was executed in 1937	DATE_OF_DEATH
+he died in 1942	DATE_OF_DEATH
+Wishart grew up in Comox	PLACE_OF_RESIDENCE
+He grew up in Montreal	PLACE_OF_RESIDENCE
+we to move to Italy	PLACE_OF_RESIDENCE
+He lived KS	PLACE_OF_RESIDENCE
+I grew up on Georgian Bay	PLACE_OF_RESIDENCE
+he is a Senegalese political leader Ross-Bethio	PLACE_OF_RESIDENCE
+Loulou are migrated to the United States	PLACE_OF_RESIDENCE
+She lived before settling with her writer/filmmaker/publisher husband in Toronto	PLACE_OF_RESIDENCE
+Raeside moved to Dundee	PLACE_OF_RESIDENCE
+Hayek lived in the United States	PLACE_OF_RESIDENCE
+Frank lived in New York	PLACE_OF_RESIDENCE
+She settled in Springfield	PLACE_OF_RESIDENCE
+He moved to West Germany	PLACE_OF_RESIDENCE
+Lang moved to California	PLACE_OF_RESIDENCE
+they continued to live Europe	PLACE_OF_RESIDENCE
+I have resided in Plant City	PLACE_OF_RESIDENCE
+Britton began their affair lived in Marion	PLACE_OF_RESIDENCE
+he moved to Munich	PLACE_OF_RESIDENCE
+she moved to Paris	PLACE_OF_RESIDENCE
+myself moved to Phoenix	PLACE_OF_RESIDENCE
+they joined the Suebi settling in Carthaginiensis	PLACE_OF_RESIDENCE
+he went to Russia	PLACE_OF_RESIDENCE
+she competed for the Coburg Athletics Club Melbourne	PLACE_OF_RESIDENCE
+Nicole Solomon raised in Wilmette	PLACE_OF_RESIDENCE
+she lived in South Carolina	PLACE_OF_RESIDENCE
+She has lived in Moncton	PLACE_OF_RESIDENCE
+he moved to Muscatine	PLACE_OF_RESIDENCE
+He was born in Ireland	PLACE_OF_BIRTH
+Levi Lusko was born in Colorado	PLACE_OF_BIRTH
+Daiane Conterato born in Porto Alegre	PLACE_OF_BIRTH
+Ed is a native of Kansas City	PLACE_OF_BIRTH
+Iris Falcam was a native of Hawaii	PLACE_OF_BIRTH
+Casey McGuire born in Nambour	PLACE_OF_BIRTH
+I was raised in Paris	PLACE_OF_BIRTH
+Clyde Packer [is] millionaire [from] Australia	PLACE_OF_BIRTH
+James Coonan was born in the Hell's Kitchen	PLACE_OF_BIRTH
+Elsbeth was born in Neustadt	PLACE_OF_BIRTH
+Henry John LaRose born in Pawtucket	PLACE_OF_BIRTH
+He was born in Heddal	PLACE_OF_BIRTH
+Tomasz Mendelski born in Olsztyn	PLACE_OF_BIRTH
+Jan Eugeniusz Krysiński born in Warsaw	PLACE_OF_BIRTH
+Pagán [is] a native of Manhattan	PLACE_OF_BIRTH
+He was born in Port Hope	PLACE_OF_BIRTH
+I was born in Castelnuovo di Garfagnana	PLACE_OF_BIRTH
+David Jacobs was born in Montreal	PLACE_OF_BIRTH
+Rollins was raised in Utah	PLACE_OF_BIRTH
+Dr. Charles M. Guizzotti raised in Buffalo	PLACE_OF_BIRTH
+David Civera Gracia born in Teruel	PLACE_OF_BIRTH
+Onishi Tetsunosuke was born in Nara city	PLACE_OF_BIRTH
+Amanda raised in Charleston	PLACE_OF_BIRTH
+Claude was born in Switzerland	PLACE_OF_BIRTH
+He was born in Italy	PLACE_OF_BIRTH
+He was born in Culiacán	PLACE_OF_BIRTH
+He was born in La Estancia del Carmen de Maravatio	PLACE_OF_BIRTH
+Giuseppe Peano [is] mathematician [from] Italy	NATIONALITY
+David Ramón Sánchez Palomares is a Venezuelan poet	NATIONALITY
+Theodor von Oppolzer [is] astronomer [from] Austria	NATIONALITY
+Vladyslav Mykulyak born in Ukrainian SSR	NATIONALITY
+Yoshiyuki Sankai is a Japanese	NATIONALITY
+Salvador Briceno [is] citizen [from] Venezuela	NATIONALITY
+Bernadotte was assassinated 	EMPLOYEE_OR_MEMBER_OF
+she was project manager for Expedia Microsoft	EMPLOYEE_OR_MEMBER_OF
+he was responsible for the development of the company's field organisation in Europe At Openwave	EMPLOYEE_OR_MEMBER_OF
+I lead marketing at Neumob	EMPLOYEE_OR_MEMBER_OF
+Mohammad Sultan Al Qadi [is] Chairman [of] ours	EMPLOYEE_OR_MEMBER_OF
+He worked at the Walters Art Gallery	EMPLOYEE_OR_MEMBER_OF
+he went to work at H. Irwin & Son	EMPLOYEE_OR_MEMBER_OF
+He worked at the Walters Art Gallery	EMPLOYEE_OR_MEMBER_OF
+Ringo Starr [is] member [of] Beatles	EMPLOYEE_OR_MEMBER_OF
+He founded Renaissance	EMPLOYEE_OR_MEMBER_OF
+Garth was appointed as an GIS & Earth Observation Specialist in the Centre at the University of Stellenbosch	EMPLOYEE_OR_MEMBER_OF
+He taught at the University of Chicago	EMPLOYEE_OR_MEMBER_OF
+He retired from the United States Navy	EMPLOYEE_OR_MEMBER_OF
+He is the founder of Kissinger Associates	EMPLOYEE_OR_MEMBER_OF
+she was project manager for Expedia Microsoft	EMPLOYEE_OR_MEMBER_OF
+He before moving to the National Institutes of Health	EMPLOYEE_OR_MEMBER_OF
+Abbie led customer success at Opower	EMPLOYEE_OR_MEMBER_OF
+John Borghetti [is] the current CEO of Virgin Australia	EMPLOYEE_OR_MEMBER_OF
+He taught at the University of Toronto	EMPLOYEE_OR_MEMBER_OF
+who was an employee of IBM United Kingdom	EMPLOYEE_OR_MEMBER_OF
+I resigned from TCS	EMPLOYEE_OR_MEMBER_OF
+I worked for Forgent Networks	EMPLOYEE_OR_MEMBER_OF
+John was Chairman of EndoTex Interventional Systems	EMPLOYEE_OR_MEMBER_OF
+Seymour Cray worked at CDC	EMPLOYEE_OR_MEMBER_OF
+he was appointed as an assistant professor at the Institute of Biochemistry in 1928 Copenhagen University	EMPLOYEE_OR_MEMBER_OF
+they sold H. Irwin & Son	EMPLOYEE_OR_MEMBER_OF
+Mike Ansay [is] chief executive officer of Ansay & Associates	EMPLOYEE_OR_MEMBER_OF
+He attended Youngstown State University	EDUCATED_AT
+he graduated from New York University	EDUCATED_AT
+He studied at Harvard University	EDUCATED_AT
+I graduated Creekview High School	EDUCATED_AT
+Aten graduated from Xavier High School	EDUCATED_AT
+He was educated at Winchester College	EDUCATED_AT
+He graduated from Georgetown University	EDUCATED_AT
+I took organic chemistry at American University	EDUCATED_AT
+He attended the U.S. Air Force Academy	EDUCATED_AT
+He graduated from Canton High School	EDUCATED_AT
+Rollins met his wife attending Brigham Young University	EDUCATED_AT
+Stanley was educated at Eton College	EDUCATED_AT
+She graduated from Howard Township Schools	EDUCATED_AT
+Micklem was educated at Mill Hill School	EDUCATED_AT
+He graduated from the California Institute of Technology	EDUCATED_AT
+She received her MFA at Yale School of Drama	EDUCATED_AT
+He graduated from Canton High School attended Northern Arizona University	EDUCATED_AT
+he graduated from Beverly Hills High School	EDUCATED_AT
+he graduated from the University of Maryland	EDUCATED_AT
+he attended graduate school at Western Michigan University	EDUCATED_AT
+He attended Youngstown State University	EDUCATED_AT
+He attended the Ohio State University	EDUCATED_AT
+He matriculated at Trinity College	EDUCATED_AT
+He received a master's degree from American University	EDUCATED_AT
+He attended Georgetown University	EDUCATED_AT
+Denny received a degree in philosophy from the University of Stuttgart	EDUCATED_AT
+she graduated from the Baghdad Fine Arts Institution	EDUCATED_AT
+he joined the Communist Party	POLITICAL_AFFILIATION
+János Lázár [is] politician [of] Fidesz	POLITICAL_AFFILIATION
+He was active in the Conservative Party	POLITICAL_AFFILIATION
+he left the Communist Party	POLITICAL_AFFILIATION
+he established The Queensland Party	POLITICAL_AFFILIATION
+Giordano moved to the Communist Refoundation Party	POLITICAL_AFFILIATION
+Alexandra [is] daughter [of] him	CHILD_OF
+Lewis Walker III joined him	CHILD_OF
+Gordy [is] son [of] Theirs	CHILD_OF
+Robert [is] only son [of] him	CHILD_OF
+Lewis Walker III joined him	CHILD_OF
+Dennis [is] son [of] Hers	CHILD_OF
+Natasa is the daughter of Yovanka Manojlovic	CHILD_OF
+Emil H. Krueger [is] youngest son [of] Emil O. Krueger	CHILD_OF
+Alexander IV [is] son [of] Alexander	CHILD_OF
+Jenny Longuet [is] eldest daughter [of] Marx	CHILD_OF
+Merchelm [is] son [of] him	CHILD_OF
+Rinaldo degli Albizzi [is] were son [of] him	CHILD_OF
+she is the daughter of Virginia Huddleston	CHILD_OF
+Dan [is] son [of] Nancy	CHILD_OF
+Arthémise Dionne [is] daughter of Benjamin Dionne	CHILD_OF
+Hanna [is] daughter [of] Andrea	CHILD_OF
+Eddie [is] son son-in-law [of] hers	CHILD_OF
+Tim Gilbert [is] son [of] Herb	CHILD_OF
+she was the daughter of Concetta (Elia) Goletz	CHILD_OF
+Lina [is] daughter [of] theirs	CHILD_OF
+Harold Winch [is] son [of] him	CHILD_OF
+Harold Winch [is] son [of] him	CHILD_OF
+Richard Syphers [is] son [of] him	CHILD_OF
+John [is] son [of] hers	CHILD_OF
+Jackie Barker [is] son [of] Sammy	CHILD_OF
+He is the son of Geoff Raines	CHILD_OF
+Richard Syphers [is] son [of] him	CHILD_OF
+John married Martha Ann Wetterich	SPOUSE
+He married Virginia "Cricket" Franche Jones	SPOUSE
+E. Pierce Marshall [is] husband [of] hers	SPOUSE
+he married Annie Elizabeth Meek	SPOUSE
+Les married Reva Parry	SPOUSE
+He married Marie-Luce-Eugénie Patry	SPOUSE
+Jacques [is] husband [of] hers	SPOUSE
+Oskar Vogt [is] husband [of] hers	SPOUSE
+Agnes Vishnevkin [is] led wife [of] him	SPOUSE
+Don Endy [is] married longtime companion [of] him	SPOUSE
+he married Margaret Greenleaf	SPOUSE
+He married thirdly Mary Jillean Gwenellan Eddy	SPOUSE
+She was the widow of Edwin W. Marze	SPOUSE
+she divorced Dmitri	SPOUSE
+Shirley Moore Ludlam [is] wife [of] him	SPOUSE
+He married Virginia "Cricket" Franche Jones	SPOUSE
+Eurydice [is] wife of Philip III	SPOUSE
+he married Agatha Maria Sophia Langston	SPOUSE
+Agnes Vishnevkin [is] rationally led wife [of] him	SPOUSE
+Gellius [is] first husband [of] hers	SPOUSE
+Juliana [is] wife [of] him	SPOUSE
+Hugh Stewart [is] husband [of] hers	SPOUSE
+Sheri Moon Zombie [is] wife [of] Rob Zombie	SPOUSE
+Johanna [is] wife [of] him	SPOUSE
+Marguerite [is] wife [of] him	SPOUSE
+he married Rebecca Bennett	SPOUSE
+Steve Dobbins [is] husband [of] him	SPOUSE
+It started its operation in 1962	DATE_FOUNDED
+Sharecare was founded in 2010	DATE_FOUNDED
+AUTOMATED CONVEYOR SYSTEMS, INC was founded in 1975	DATE_FOUNDED
+Elderly has undergone two major expansions in 1975	DATE_FOUNDED
+Richmond Park Academy was formed in 2010	DATE_FOUNDED
+it was established in 1916	DATE_FOUNDED
+It was founded in September 1998	DATE_FOUNDED
+The First Army was created on 1 January 2015	DATE_FOUNDED
+Silver State Schools Credit Union is 	DATE_FOUNDED
+Dartmouth College was established in 1769	DATE_FOUNDED
+National Foods was created in 1991	DATE_FOUNDED
+Zip's Cafe established 1926	DATE_FOUNDED
+The Singapore Cancer Society was founded in 1964	DATE_FOUNDED
+They were formed in 2008	DATE_FOUNDED
+Bluegrass Services was started in 2007	DATE_FOUNDED
+The American Hardware Manufacturers Association founded in 1901	DATE_FOUNDED
+Redwood Travel started in 1941	DATE_FOUNDED
+it was founded in 2010	DATE_FOUNDED
+The American Trucking Associations founded in 1933	DATE_FOUNDED
+The Media Sales House was born in 2009	DATE_FOUNDED
+it was created in 1920	DATE_FOUNDED
+Leisure Arts relocated to Little Rock in 1977	DATE_FOUNDED
+Perdana Leadership Foundation was chartered as a non-profit organisation in January 2003	DATE_FOUNDED
+Cambridge School Indirapuram was established on April 15, 1999	DATE_FOUNDED
+PCM started as a direct market catalog via telemarketing in 1987	DATE_FOUNDED
+PCM started as a direct market catalog via direct marketing in 1987	DATE_FOUNDED
+Central Glass Company has been a leader in providing contract Since 1946	DATE_FOUNDED
+Coldwell Banker Trinity Realty Brokerage located in Collingwood	HEADQUARTERS
+We 're headquartered in San Francisco	HEADQUARTERS
+Entitle Direct Group based in Norwalk	HEADQUARTERS
+It is headquartered in Bethesda	HEADQUARTERS
+we have relocated to Glen Cove	HEADQUARTERS
+Jewish Community Center located in West Bloomfield	HEADQUARTERS
+Constellation Aviation Solutions LLC headquartered in Orlando	HEADQUARTERS
+Deluxe was located in East Longmeadow	HEADQUARTERS
+it was published San Clemente	HEADQUARTERS
+We 're based in Glasgow	HEADQUARTERS
+The Cabell County Public Library is located in Huntington	HEADQUARTERS
+The Shingle Springs Band of Miwok Indians are headquartered in Shingle Springs	HEADQUARTERS
+it is based Massachusetts	HEADQUARTERS
+It was based in Illinois	HEADQUARTERS
+it moved to Orpington	HEADQUARTERS
+we moved to Bellport Village	HEADQUARTERS
+The American College of Cardiology based in Washington	HEADQUARTERS
+EnTitle Insurance Company is located in Independence	HEADQUARTERS
+R.S.S.a Home Improvement Center operates 	HEADQUARTERS
+We 're headquartered in San Francisco	HEADQUARTERS
+Lumière Movies based in Mumbai	HEADQUARTERS
+Shivaji Works Limited located at Solapur	HEADQUARTERS
+Coldwell Banker Trinity Realty Brokerage located in Wasaga Beach	HEADQUARTERS
+We 're headquartered in San Francisco	HEADQUARTERS
+CTCWWT based in Bromley	HEADQUARTERS
+Power Products Unlimted Inc is proudly located in Spokane	HEADQUARTERS
+We 're headquartered in San Francisco	HEADQUARTERS
+Western Financial Group is a subsidiary of Desjardins Group	SUBSIDIARY_OF
+It is owned by Hearst Television	SUBSIDIARY_OF
+Heinz ABC Indonesia is a subsidiary of H.J. Heinz Company Limited	SUBSIDIARY_OF
+Spitfire Records was a subsidiary of Eagle Rock Entertainment	SUBSIDIARY_OF
+Marconi Electronic Systems [is] the naval shipbuilding subsidiary of the General Electric Company plc	SUBSIDIARY_OF
+Paradise Valley Hospital is a subsidiary of Prime Healthcare Services	SUBSIDIARY_OF
+TCG is a subsidiary of First Apex Holdings	SUBSIDIARY_OF
+Resource Solutions [is] a subsidiary of The Robert Walters Recruitment Group	SUBSIDIARY_OF
+Cox Automotive™ [is] a subsidiary of Cox Enterprises	SUBSIDIARY_OF
+The Roof Center is a subsidiary of Beacon Roofing Supply	SUBSIDIARY_OF
+Altaaqa Global [is] a subsidiary of Zahid Group	SUBSIDIARY_OF
+Fox Entertainment Group [is] a subsidiary of 21 st Century Fox	SUBSIDIARY_OF
+VinSolutions is wholly owned by Cox Automotive™	SUBSIDIARY_OF
+FUJIFILM North America Corporation [is] a marketing subsidiary of FUJIFILM Holdings America Corporation	SUBSIDIARY_OF
+Northport Capital [is] a subsidiary of Resource America	SUBSIDIARY_OF
+It was a subsidiary of Arista Records	SUBSIDIARY_OF
+It was a subsidiary of Arista Records	SUBSIDIARY_OF
+RoyaltyShare is a subsidiary of The Orchard	SUBSIDIARY_OF
+Avantica [is] subsidiary [of] ours	SUBSIDIARY_OF
+which is a subsidiary of New Generations Technology	SUBSIDIARY_OF
+Milestone Aviation Group [is] a subsidiary of GE Capital Aviation Services (GECAS	SUBSIDIARY_OF
+Universal Music Group [is] a subsidiary of Vivendi SA	SUBSIDIARY_OF
+It is a subsidiary of United Online	SUBSIDIARY_OF
+UKS is a subsidiary of Al Tanmiya Holding	SUBSIDIARY_OF
+IDG Business Media GmbH [is] the German subsidiary of IDG	SUBSIDIARY_OF
+Coyote is a subsidiary of UPS	SUBSIDIARY_OF
+that is a subsidiary of Tata Chemicals Limited	SUBSIDIARY_OF
+he established Bayındır Life Insurance Company	FOUNDED_BY
+Cascade Family Medicine was founded 	FOUNDED_BY
+Bob's Coins was founded by Robert (Bob) Korsec	FOUNDED_BY
+He formed Salmon Brothers Construction Company	FOUNDED_BY
+Dartmouth College was established by Eleazar Wheelock	FOUNDED_BY
+Tuning Fork Limited was set up by Ing Joseph Caruana	FOUNDED_BY
+The Las Olas Tattoo Company was established by Shamus Parker	FOUNDED_BY
+he went to found the Moscow School of Social and Economic Sciences	FOUNDED_BY
+Capitol Harley-Davidson was founded by Dave Bell	FOUNDED_BY
+The Oak Park Veterinary Clinic was started by Dr. Bonnie Snyder	FOUNDED_BY
+It was founded by Susan	FOUNDED_BY
+View Askew Productions co-founded with Scott Mosier	FOUNDED_BY
+Cascade Family Medicine was founded by DO	FOUNDED_BY
+Cascade Family Medicine was founded 	FOUNDED_BY
+CRS was established by Mike Clark	FOUNDED_BY
+He formed Salmon Brothers Construction Company	FOUNDED_BY
+Cascade Family Medicine was founded 	FOUNDED_BY
+It was founded by David Axelrod	FOUNDED_BY
+The Eastside Business Association was created by Mario Morales	FOUNDED_BY
+he founded Gorman Personnel Consultants Inc	FOUNDED_BY
+It is named after Joseph Hagaman	FOUNDED_BY
+Cascade Family Medicine was founded by DO	FOUNDED_BY
+Cascade Family Medicine was founded by Lawrence Foltz	FOUNDED_BY
+It was founded by Mehmet Ali Aydınlar	FOUNDED_BY
+It was founded by James Patrick McFadden	FOUNDED_BY
+Signature Theatre Company founded by James Houghton	FOUNDED_BY
+It was founded by Sharon Dean	FOUNDED_BY
+First Home Mortgage Corporation was founded by Dave Waters	CEO
+Falcon International Bank is headed by Adolfo E. Gutierrez	CEO
+Anstalt für Verbrennungskraftmaschinen List was founded by his father	CEO
+Anstalt für Verbrennungskraftmaschinen List was founded in 1948	CEO
+Anstalt für Verbrennungskraftmaschinen List was founded by his father	CEO
+Lombard Medical Technologies PLC [is] an listed company [of] AIM	CEO

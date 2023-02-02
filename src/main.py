@@ -25,9 +25,28 @@ from transformers import (set_seed,
                           get_linear_schedule_with_warmup,
                           AutoModelForSequenceClassification)
 
-from process import ProcessKnowledgeNet
 from classifier import Classifier
 
+
+def load_train():
+    with open('data/train.txt') as f:
+        train_data = f.readlines()
+    train_dataset = []
+    for line in train_data:
+        text, label = line.split('\t')
+        train_dataset.append({'text': text, 'label': label.replace('\n', '')})
+    return train_dataset
+
+
+def load_test():
+    with open('data/test.txt') as f:
+        test_data = f.readlines()
+    test_dataset = []
+    for line in test_data:
+        text, label = line.split('\t')
+        test_dataset.append({'text': text, 'label': label.replace('\n', '')})
+
+    return test_dataset
 
 def REwithOpenIE():
 
@@ -70,13 +89,6 @@ def REwithOpenIE():
     print('Loading tokenizer...')
     tokenizer = AutoTokenizer.from_pretrained(pretained)
 
-    print('Dealing with Train...')
-    # Create pytorch dataset.
-    train_dataset = ProcessKnowledgeNet(split='train',use_tokenizer=tokenizer)
-    print('Dealing with Validation...')
-    # Create pytorch dataset.
-    valid_dataset = ProcessKnowledgeNet(split='test',use_tokenizer=tokenizer)
-
     model_config = AutoConfig.from_pretrained(pretained, num_labels=n_labels)
     # Get the model.
     print('Loading model...')
@@ -88,19 +100,19 @@ def REwithOpenIE():
     # Load model to defined device.
     model.to(device)
     print('Model loaded to `%s`' % device)
-
     classifier = Classifier(use_tokenizer=tokenizer,labels_encoder=labels_ids,max_sequence_len=max_length)
-    # Move pytorch dataset into dataloader.
+
+    train_dataset = load_train()
+    test_dataset = load_test()
+
     train_dataloader = DataLoader(train_dataset, batch_size=batch_size, shuffle=True, collate_fn=classifier)
-    # Move pytorch dataset into dataloader.
-    valid_dataloader = DataLoader(valid_dataset, batch_size=batch_size, shuffle=False, collate_fn=classifier)
+    valid_dataloader = DataLoader(test_dataset, batch_size=batch_size, shuffle=False, collate_fn=classifier)
 
     #AdamW is a class from the huggingface library (not pytorch)
     optimizer = AdamW(model.parameters(), lr=5e-5, eps=1e-8)
 
     # Total number of training steps is number of batches * number of epochs.
-    # `train_dataloader` contains batched data so `len(train_dataloader)` gives
-    # us the number of batches.
+    # `train_dataloader` contains batched data so `len(train_dataloader)` gives us the number of batches.
     total_steps = len(train_dataloader) * epochs
 
     # Create the learning rate scheduler.
@@ -330,5 +342,3 @@ def REwithOpenIE():
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     REwithOpenIE()
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
